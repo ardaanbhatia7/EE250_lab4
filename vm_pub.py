@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
     while True:
         #replace user with your USC username in all subscriptions
-        client.publish("user/ipinfo", f"{ip_address}")
+        client.publish("rochlani/ipinfo", f"{ip_address}")
         print("Publishing ip address")
         time.sleep(4)
 
