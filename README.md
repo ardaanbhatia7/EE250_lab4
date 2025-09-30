@@ -1,6 +1,6 @@
 # Lab 3
 
 ## Team Members
-- team member 1
-- team member 2
+- Ardaan Bhatia; ardaanbh@usc.edu; github: ardaanbhatia7
+- Kyna Rochlani; rochlani@usc.edu; gtihub: kynarochlani2006
 
